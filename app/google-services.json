@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250559904923",
+    "project_id": "myshopproject-3f2f4",
+    "storage_bucket": "myshopproject-3f2f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250559904923:android:2d9597a5660513c04c5a3e",
+        "android_client_info": {
+          "package_name": "com.example.sneakersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250559904923-00rn847cmjgioerdjeuiqgkbcrltsmra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sneakersapp",
+            "certificate_hash": "821c47e2786f3a8bbfd26ebd42d72d2105708831"
+          }
+        },
+        {
+          "client_id": "250559904923-6j5n41809hosn1vbahprjnq1eneunoel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylAGswMKbQ9ot5Z5cMsoPJypLfyb0S1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250559904923-6j5n41809hosn1vbahprjnq1eneunoel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
